@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FB0BB4F8-A6F2-4E22-AB6C-94853647BA17}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoloLearnAssignment/Program.cs">
+    <Files>
+      <File FileName="SoloLearnAssignment/Program.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SoloLearnAssignment" expanded="True">
+            <Node name="SoloLearnAssignment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SoloLearnAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
