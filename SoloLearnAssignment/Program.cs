@@ -14,7 +14,7 @@ namespace SoloLearnAssignment
             double smallDecimal = 12.9876956;
             decimal price = 12.99m;
 
-            Console.WriteLine($"My name is {name}.\nI am {number} years old.\nMy favorite letter is {letter}.\n1 + 1 = 2 is {isTrue}.\n{smallDecimal} is a float.\nA pizza is ${price}.");
+            Console.WriteLine($"My name is {name}.\nI am {number} years old.\nMy favorite letter is {letter}.\n1 + 1 = 2 is {isTrue}.\n{smallDecimal} is a float that isn't very accurate.\nA pizza is ${price}.");
 
 
         }
